@@ -15,4 +15,5 @@ elif times_to_key == final_drink:
     print("お疲れ様でした")
 else:
     print(drinks[times_to_key])
-    print("楽しいなー")
+    print("おいしいなー")
+
